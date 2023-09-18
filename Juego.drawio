@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T00:03:16.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bm-LeheYd0gZ8yB_UDT3" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T00:07:02.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qriWi5qL3TDiSsqMi6zi" version="21.7.4" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,11 +25,19 @@
             <mxPoint x="414" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-5" value="¡ Comenzemos!&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-5" value="¡ Comencemos!&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="291" y="500" width="246" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-7" value="Ingresa tu nombre" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-11" value="Ok, (nombre ingresado por el usuario), comencemos con el aprendizaje." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="283" y="770" width="262" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
