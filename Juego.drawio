@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T00:55:05.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="awhb2G1Yi1GxRzQhs__J" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T01:29:07.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UszlSIMDXkDT0xlZpWWN" version="21.7.4" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="Ye6Lir1v8M7o-369fLMi-23" value="¡Comencemos!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="283" y="500" width="257" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-24" value="Ok, (nombre ingresado por el usuario), comencemos con el aprendizaje." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-24" value="nombre ingresado por el usuario), Ok, comencemos con el aprendizaje." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="283" y="770" width="257" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-25" value="Lección 1&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
