@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T00:29:00.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XqR1CGjWCFoK1P-KZuDq" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T00:30:12.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RvWx3MI2-dzsoYZKIxKQ" version="21.7.4" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,6 +85,11 @@
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-28" value="¿Cúal es la definición correcta phyton?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="326" y="1280" width="186" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="1480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-32" value="Enunciado 1: Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo como por ejemplo : Netflix, Spotify, instragram, entre otros." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="20" y="1315" width="210" height="90" as="geometry" />
