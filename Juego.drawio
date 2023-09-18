@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T00:15:10.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ON_le2-wXLhS-S2Ub0vk" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T00:24:01.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="S-xp59F-fo2jZzA0uqTC" version="21.7.4" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,54 +12,69 @@
         <mxCell id="Ye6Lir1v8M7o-369fLMi-1" value="Juega y Pograma" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="334" y="40" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-3">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="419" y="500" as="targetPoint" />
+            <mxPoint x="413" y="500" as="targetPoint" />
+            <mxPoint x="413" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-3" value="¡ Hola !&lt;br&gt;¡ Bienvenidos !, te presento el juego donde aprenderas a programar con ejercicios que ayudaran a mantener tu aprendizaje cada día" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="296" y="300" width="246" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-5">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="630" as="targetPoint" />
+            <mxPoint x="414" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-5" value="¡ Comencemos!&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="291" y="500" width="246" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-7" target="Ye6Lir1v8M7o-369fLMi-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-7" value="Ingresa tu nombre" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="284" y="630" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-11">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="830" as="sourcePoint" />
             <mxPoint x="414" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-11" value="Ok, (nombre ingresado por el usuario), comencemos con el aprendizaje." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="283" y="770" width="262" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-14">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="1030" as="targetPoint" />
+            <mxPoint x="414" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-14" value="Lección número 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="283" y="910" width="262" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-16">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="419" y="1150" as="targetPoint" />
+            <mxPoint x="419" y="1100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-16" value="Conceto de Phyton: Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo como por ejemplo : Netflix, Spotify, instragram, entre otros." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="279" y="1030" width="280" height="70" as="geometry" />
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="1280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-20" value="Reto lección No.1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-20" value="Reto lección No.1&lt;br&gt;Elige la opción correcta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="272" y="1150" width="294" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-22" value="¡ Hola !&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;¡ Bienvenidos !, te presento el juego donde aprenderas a programar con ejercicios que ayudaran a mantener tu aprendizaje cada día" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="272" y="310" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-23" value="¡Comencemos!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="283" y="500" width="257" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-24" value="Ok, (nombre ingresado por el usuario), comencemos con el aprendizaje." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="283" y="770" width="257" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-25" value="Lección 1&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="290.5" y="910" width="257" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-26" value="Concepto de Phyton: Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo como por ejemplo : Netflix, Spotify, instragram, entre otros." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="287" y="1030" width="257" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1280" width="171" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
