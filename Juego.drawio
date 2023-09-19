@@ -1,232 +1,232 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T23:08:58.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="y0IK5msesDRVi7Y1cQnD" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T03:07:00.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9H2huWIVVCagi9e-7pcq" version="21.7.5" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="1707" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="419" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-1" value="Juega y Pograma" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-1" value="Juega y Pograma" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="334" y="40" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="413" y="480" as="targetPoint" />
             <mxPoint x="413" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="413" y="610" as="targetPoint" />
             <mxPoint x="413" y="550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-7">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-7" value="Ingresa tu nombre" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-7" value="Ingresa tu nombre" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="281.5" y="770" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-20">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="244" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-20" value="Reto lección No.1&lt;br&gt;Elige la opción correcta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-20" value="Reto lección No.1&lt;br&gt;Elige la opción correcta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="97" y="1840" width="294" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-22" value="¡ Hola !&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;¡ Bienvenidos !, te presento el juego donde aprenderas a programar con ejercicios que ayudaran a mantener tu aprendizaje cada día" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-22" value="¡ Hola !&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;¡ Bienvenidos !, te presento el juego donde aprenderas a programar con ejercicios que ayudaran a mantener tu aprendizaje cada día" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="270.5" y="290" width="290" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-23" value="¡Comencemos!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-23" value="¡Comencemos!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="281.5" y="480" width="257" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-24">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="409" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-24" value="(nombre ingresado por el usuario), Ok, comencemos con el aprendizaje." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-24" value="(nombre ingresado por el usuario), Ok, comencemos con el aprendizaje." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="280" y="910" width="257" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-26">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-26" value="Concepto de Phyton: Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo como por ejemplo : Netflix, Spotify, instragram, entre otros." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-26" value="Concepto de Phyton: Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo como por ejemplo : Netflix, Spotify, instragram, entre otros." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="111.5" y="1690" width="257" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-28">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="2510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-28">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="2510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-28" value="¿Cúal es el enunciado correcto?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-28" value="¿Cúal es el enunciado correcto?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="152.75" y="2440" width="186" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-32" target="Ye6Lir1v8M7o-369fLMi-33">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-32" target="Ye6Lir1v8M7o-369fLMi-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-32" value="a : Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo como por ejemplo : Netflix, Spotify, instragram, entre otros." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-32" value="a : Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo como por ejemplo : Netflix, Spotify, instragram, entre otros." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="112.5" y="2130" width="278.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-33">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="252.25" y="2430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-33" value="b : Phyton es un juego acción&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-33" value="b : Phyton es un juego acción&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="113.5" y="2290" width="277.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-44" value="Despues de los 3 intentos permitidos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-44" value="Despues de los 2 intentos permitidos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="1470" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-46">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="484.5" y="2790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-46" value="Respuesta correcta, puedes avanzar&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-46" value="Respuesta correcta, puedes avanzar&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="380" y="2600" width="209" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-51">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-51" value="Lección 1&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-51" value="Lección 1&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="95" y="1550" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-55">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="413.5" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-55" value="La unicas reglas son : que todas tus respuestas las debes ingresar en miniscula y que tienes un máximo de 3 intentos por cada pregunta.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-55" value="La unicas reglas son : que todas tus respuestas las debes ingresar en miniscula y que tienes un máximo de 3 intentos por cada pregunta.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="285" y="610" width="257" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-61">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-61" value="Tengo una pregunta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-61" value="Tengo una pregunta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="280" y="1050" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-67">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-67">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-67" value="¿Estas listo?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-67" value="¿Estas listo?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="317" y="1210" width="183" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-74">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-74" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-74" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-74" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="225" y="1265" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-75">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-75" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-75" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-75" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="1265" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-81">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-81" value="Ok, puedes continuar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-81" value="Ok, puedes continuar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="143" y="1370" width="194" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-83" target="Ye6Lir1v8M7o-369fLMi-67">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-83" target="Ye6Lir1v8M7o-369fLMi-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="409" y="1410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-83" target="Ye6Lir1v8M7o-369fLMi-86">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-83" target="Ye6Lir1v8M7o-369fLMi-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-83" value="Respuesta incorrecta intentalo de nuevo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-83" value="Respuesta incorrecta intentalo de nuevo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="550" y="1380" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-86" value="Agostaste tus intentos perdiste" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-86" value="Agostaste tus intentos perdiste" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="555.75" y="1510" width="228.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-96" target="Ye6Lir1v8M7o-369fLMi-32">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-96" target="Ye6Lir1v8M7o-369fLMi-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-96" value="El concepto correcto de phyton:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-96" value="El concepto correcto de phyton:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="106.5" y="2000" width="278.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-102">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="455" y="2590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-102" value="a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-102" value="a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="2495" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-103">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-103" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="2600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-103" value="b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-103" value="b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="65" y="2495" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-106">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-106" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="2590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-106">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-106" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="89" y="2750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-106" value="Respuesta incorrecta intentalo de nuevo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-106" value="Respuesta incorrecta intentalo de nuevo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="-6" y="2610" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-109" value="Despues de los 3 intentos permitidos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-109" value="Despues de los 3 intentos permitidos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="97" y="2700" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-112">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="485" y="2920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-112" value="Leccion 2: Tipos de variables&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-112" value="Leccion 2: Tipos de variables&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="339.5" y="2800" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-115" value="Agostaste tus intentos perdiste" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-115" value="Agostaste tus intentos perdiste" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="-25.25" y="2760" width="228.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-117" value="nombre = str = &quot;Diana&quot; #string.str , los textros van entre comillas y&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-117" value="nombre = str = &quot;Diana&quot; #string.str , los textros van entre comillas y&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="337" y="2923" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
