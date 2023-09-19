@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T03:11:28.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mdfnTicIIeGQ7SGaz2MJ" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T03:16:06.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="s0ZHqttPeCHRIKZgJmxl" version="21.7.5" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="1707" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,23 +62,22 @@
         <mxCell id="Ye6Lir1v8M7o-369fLMi-26" value="Concepto de Phyton: Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo como por ejemplo : Netflix, Spotify, instragram, entre otros." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="111.5" y="1690" width="257" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-28" edge="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="2510" as="targetPoint" />
+            <mxPoint x="338.75" y="2510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-28" edge="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="2510" as="targetPoint" />
+            <mxPoint x="152.75" y="2510" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-28" value="¿Cúal es el enunciado correcto?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="152.75" y="2440" width="186" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-32" target="Ye6Lir1v8M7o-369fLMi-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-32" value="a : Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo como por ejemplo : Netflix, Spotify, instragram, entre otros." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-32" value="a : Phyton es un lenguaje de alto nivel de programacón el cual es utilizado para desarrollar aplicaciones de todo tipo.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="112.5" y="2130" width="278.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-33" edge="1">
@@ -97,7 +96,7 @@
             <mxPoint x="484.5" y="2790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-46" value="Respuesta correcta, puedes avanzar&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-46" value="Respuesta correcta, ¡ Bien hecho!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="380" y="2600" width="209" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-51" edge="1">
@@ -212,7 +211,7 @@
         <mxCell id="Ye6Lir1v8M7o-369fLMi-106" value="Respuesta incorrecta intentalo de nuevo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="-6" y="2610" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-109" value="Despues de los 3 intentos permitidos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-109" value="Despues de los 2 intentos permitidos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="97" y="2700" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-112" edge="1">
@@ -224,10 +223,21 @@
           <mxGeometry x="339.5" y="2800" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-115" value="Agostaste tus intentos perdiste" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="-25.25" y="2760" width="228.5" height="60" as="geometry" />
+          <mxGeometry x="-6" y="2950" width="228.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-117" value="nombre = str = &quot;Diana&quot; #string.str , los textros van entre comillas y&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="337" y="2923" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-2" value="¿Cuál es la respuesta correcta (a/b)?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="162.75" y="2435" width="179" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="2940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-3" value="Respuesta incorrecta , por favor elige entre a o b" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry y="2760" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
