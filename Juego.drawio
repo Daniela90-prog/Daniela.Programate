@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T04:41:24.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AEanw6GJUk_08SMNrNFu" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T04:49:31.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cv0MJSvcJCl6ViCqWmyQ" version="21.7.5" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="2084" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry x="550" y="1380" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-86" value="Agostaste tus intentos perdiste" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="555.75" y="1510" width="228.5" height="60" as="geometry" />
+          <mxGeometry x="555.75" y="1540" width="228.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-96" target="Ye6Lir1v8M7o-369fLMi-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -300,6 +300,10 @@
         <mxCell id="wNHEqdKoxcamqjgHSYH6-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-33" target="wNHEqdKoxcamqjgHSYH6-67">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="5650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="3990" />
+              <mxPoint x="950" y="5605" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wNHEqdKoxcamqjgHSYH6-33" value="Agotaste tus intentos. El juego termina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
@@ -404,7 +408,7 @@
           <mxGeometry x="-290" y="5170" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wNHEqdKoxcamqjgHSYH6-67" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="27.379999999999995" y="5520" width="170" height="170" as="geometry" />
+          <mxGeometry x="19.999999999999996" y="5520" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="wNHEqdKoxcamqjgHSYH6-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-70">
           <mxGeometry relative="1" as="geometry">
