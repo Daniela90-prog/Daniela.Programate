@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T03:07:00.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9H2huWIVVCagi9e-7pcq" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T03:11:28.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mdfnTicIIeGQ7SGaz2MJ" version="21.7.5" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="1707" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             <mxPoint x="244" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-20" value="Reto lección No.1&lt;br&gt;Elige la opción correcta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-20" value="Reto lección No.1 Elige la opción correcta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="97" y="1840" width="294" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-22" value="¡ Hola !&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;¡ Bienvenidos !, te presento el juego donde aprenderas a programar con ejercicios que ayudaran a mantener tu aprendizaje cada día" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
@@ -51,7 +51,7 @@
             <mxPoint x="409" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-24" value="(nombre ingresado por el usuario), Ok, comencemos con el aprendizaje." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-24" value="&amp;nbsp;Ok, comencemos con el aprendizaje." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="280" y="910" width="257" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-26" edge="1">
@@ -113,7 +113,7 @@
             <mxPoint x="413.5" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-55" value="La unicas reglas son : que todas tus respuestas las debes ingresar en miniscula y que tienes un máximo de 3 intentos por cada pregunta.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-55" value="La unicas reglas son : que todas tus respuestas las debes ingresar en miniscula y que tienes un máximo de 2 intentos por cada pregunta.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="285" y="610" width="257" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-61" edge="1">
