@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T03:16:06.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="s0ZHqttPeCHRIKZgJmxl" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T03:17:34.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PdGIMP4h7co9w1UDtROd" version="21.7.5" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="1707" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,7 +222,7 @@
         <mxCell id="Ye6Lir1v8M7o-369fLMi-112" value="Leccion 2: Tipos de variables&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="339.5" y="2800" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-115" value="Agostaste tus intentos perdiste" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="Ye6Lir1v8M7o-369fLMi-115" value="Agotaste tus intentos. El juego termina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="-6" y="2950" width="228.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-117" value="nombre = str = &quot;Diana&quot; #string.str , los textros van entre comillas y&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
