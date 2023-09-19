@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T04:09:53.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7r1pbC80Q7EBlyRvHwS-" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T04:36:22.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="N2Yp5K0JVLwhfnLNm-w3" version="21.7.5" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="1707" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,13 +345,46 @@
         <mxCell id="wNHEqdKoxcamqjgHSYH6-47" value="Vas seleccionar la opción create repl // luego escoges el template de phyton y das click en template.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-46" y="4450" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wNHEqdKoxcamqjgHSYH6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-54">
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="99" y="4850" as="targetPoint" />
+            <mxPoint x="108.25" y="4890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNHEqdKoxcamqjgHSYH6-54" value="Ahora procede a copiar y pegar el siguiente código:&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;numero1 = 5&lt;/div&gt;&lt;div&gt;numero2 = 10&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if numero1 &amp;gt; numero2:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; print(&quot;si el número era mayor&quot;)&lt;/div&gt;&lt;div&gt;else:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; print(&quot;si, el número era menor&quot;)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Ten en cuenta: Que cada linea&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-74" y="4630" width="346" height="160" as="geometry" />
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-54" value="Ahora procede a copiar y pegar el siguiente código:&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;numero1 = 5&lt;/div&gt;&lt;div&gt;numero2 = 10&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if numero1 &amp;gt; numero2:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; print(&quot;si el número era mayor&quot;)&lt;/div&gt;&lt;div&gt;else:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; print(&quot;si, el número era menor&quot;)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ten en cuenta: Cada cariable, el condicional if, else y print debe ocupar una linea cada uno.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-93.75" y="4630" width="404" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="116.5" y="5110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-57" value="Al momento de ejecutar el codigo, De acuerdo a las siguientes opciones presentadas a continuación&lt;br&gt;a ) &quot;si el numero era mayor&quot;&lt;br&gt;b) &quot;si el numero era menor&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-87" y="4900" width="407" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="5200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="5200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-59" value="Responda ¿Cuál es el print correcto?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="14.75" y="5120" width="195.25" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-62" value="a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="5160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-63" value="b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="244" y="5160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-64" value="Perfecto&amp;nbsp; haz ganado este primer módulo de programación&lt;br&gt;Felicitaciones&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="320" y="5150" width="407" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-65" value="Respuesta incorrecta intentalo de nuevo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="5170" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
