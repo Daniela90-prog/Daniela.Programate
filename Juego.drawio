@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T04:49:31.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cv0MJSvcJCl6ViCqWmyQ" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T04:53:00.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1k1dO3cExP-XwtgLbJV8" version="21.7.5" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
-    <mxGraphModel dx="2084" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,6 +166,11 @@
         <mxCell id="Ye6Lir1v8M7o-369fLMi-83" value="Respuesta incorrecta intentalo de nuevo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="550" y="1380" width="240" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="5640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-86" value="Agostaste tus intentos perdiste" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="555.75" y="1540" width="228.5" height="60" as="geometry" />
         </mxCell>
@@ -210,8 +215,13 @@
         <mxCell id="Ye6Lir1v8M7o-369fLMi-112" value="Leccion 2: Tipos de variables&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="320" y="2800" width="290" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="5680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-115" value="Agotaste tus intentos. El juego termina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="-6" y="2950" width="228.5" height="60" as="geometry" />
+          <mxGeometry x="-6" y="2950" width="228.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wNHEqdKoxcamqjgHSYH6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-117">
           <mxGeometry relative="1" as="geometry">
@@ -421,6 +431,18 @@
         </mxCell>
         <mxCell id="wNHEqdKoxcamqjgHSYH6-70" value="Agotaste tus intentos. El juego termina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-309.25" y="5370" width="228.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-99" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-510" y="5680" as="sourcePoint" />
+            <mxPoint x="40" y="5680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="5640" as="sourcePoint" />
+            <mxPoint x="200" y="5640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
