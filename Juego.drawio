@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T03:17:34.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PdGIMP4h7co9w1UDtROd" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T03:36:59.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="aHQKxln0tMAHUpulwTg7" version="21.7.5" type="github">
   <diagram name="Página-1" id="wZ6IoTYDzUvtT-8nd7Mi">
     <mxGraphModel dx="1707" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,13 +160,6 @@
         <mxCell id="Ye6Lir1v8M7o-369fLMi-81" value="Ok, puedes continuar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="143" y="1370" width="194" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-83" target="Ye6Lir1v8M7o-369fLMi-67" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="409" y="1410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ye6Lir1v8M7o-369fLMi-83" target="Ye6Lir1v8M7o-369fLMi-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -198,11 +191,6 @@
         <mxCell id="Ye6Lir1v8M7o-369fLMi-103" value="b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="65" y="2495" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ye6Lir1v8M7o-369fLMi-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-106" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="2590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ye6Lir1v8M7o-369fLMi-106" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="89" y="2750" as="targetPoint" />
@@ -220,13 +208,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-112" value="Leccion 2: Tipos de variables&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="339.5" y="2800" width="290" height="60" as="geometry" />
+          <mxGeometry x="320" y="2800" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-115" value="Agotaste tus intentos. El juego termina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="-6" y="2950" width="228.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye6Lir1v8M7o-369fLMi-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="486.75" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ye6Lir1v8M7o-369fLMi-117" value="nombre = str = &quot;Diana&quot; #string.str , los textros van entre comillas y&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="337" y="2923" width="290" height="60" as="geometry" />
+          <mxGeometry x="341.75" y="2930" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wNHEqdKoxcamqjgHSYH6-2" value="¿Cuál es la respuesta correcta (a/b)?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="162.75" y="2435" width="179" height="150" as="geometry" />
@@ -238,6 +231,77 @@
         </mxCell>
         <mxCell id="wNHEqdKoxcamqjgHSYH6-3" value="Respuesta incorrecta , por favor elige entre a o b" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry y="2760" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="486.75" y="3270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-7" value="números = 25 #el formato de números es int" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="341.75" y="3120" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="486.75" y="3440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-9" value="Decimal = 45,9 #el formato de números decimales es float.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="341.75" y="3280" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489" y="3600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-11" value="Reto lección No.2 Elige la opción correcta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="341.75" y="3447" width="294" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="89" y="3830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-16" value="Respuesta correcta, ¡ Bien hecho!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-56" y="3640" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-22" value="a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="3700" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="3685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="3685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-23" value="De acuerdo al tipo de variable longitud_del_camino =45,90 ¿Cúal es el tipo de varible correcto (a/b)?&lt;br&gt;a =&amp;nbsp; float&lt;br&gt;b= str" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="371.25" y="3610" width="231" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-26" value="b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="3690" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-27" target="wNHEqdKoxcamqjgHSYH6-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-27" value="Respuesta incorrecta intentalo de nuevo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="710" y="3660" width="290" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHEqdKoxcamqjgHSYH6-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="3930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-29" value="Respuesta incorrecta , por favor elige entre a o b" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="715" y="3800" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-33" value="Agotaste tus intentos. El juego termina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="715" y="3940" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHEqdKoxcamqjgHSYH6-36" value="Lección 3: Condicionales if , elif y else&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="3840" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
